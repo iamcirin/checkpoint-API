@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+}
+
+.user{
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  align-items: center;
+
+  margin: 2rem;
+  background-image: linear-gradient(to right, #d46275 0%, #546855 100%);
+  border-radius: 15px;
+
+}
+
+/* .name{
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+   */
+
+
+.name h2, .email h4{
+  color: bisque;
+}
